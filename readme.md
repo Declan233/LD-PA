@@ -1,4 +1,3 @@
-# KD-PA: Distilling Univariate Leakage for Deep Learning-based Profiling Attacks
-``KD-PA: Knowledge Distillation-based Profiling Attack``
+## This is the source code for the paper "LD-PA: Distilling Univariate Leakage for Deep Learning-based Profiling Attacks".
 
-The Source code
+Codes will be uploaded soon.
