@@ -17,15 +17,17 @@
     - Guessing Entropy.
         ![](GE.png)
 
-## Note:
- More information can be found in the paper.
- ```@article{author2024title,
-  title={Your Paper Title},
-  author={Author, First and Another, Second},
-  journal={Journal Name},
-  year={2024},
-  volume={42},
-  number={3},
-  pages={123-456},
-  doi={10.1000/j.journal.2024},
-}```
+
+## Citation:
+If you find this work useful, please consider citing:
+```
+@artical{Xiao2024ldpa,
+  title={LD-PA: Distilling Univariate Leakage for Deep Learning-based Profiling Attacks},
+  author={Chong Xiao and Ming Tang and Sengim Karayalcin and Wei Cheng},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={},
+  number={},
+  pages={--},
+  year={2024}
+}
+```
