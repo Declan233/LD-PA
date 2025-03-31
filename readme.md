@@ -25,9 +25,8 @@ If you find this work useful, please consider citing:
   title={LD-PA: Distilling Univariate Leakage for Deep Learning-based Profiling Attacks},
   author={Chong Xiao and Ming Tang and Sengim Karayalcin and Wei Cheng},
   journal={IEEE Transactions on Information Forensics and Security},
-  volume={},
-  number={},
-  pages={--},
+  volume={20},
+  pages={17--30},
   year={2024}
 }
 ```
