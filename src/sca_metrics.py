@@ -36,7 +36,7 @@ def sca_metrics(output_probabilities, n_ge, label_key_guess, correct_key):
     guessing_entropy = key_ranking_sum / 100
     success_rate = success_rate_sum / 100
     if guessing_entropy[n_ge - 1] < 2:
-        result_number_of_traces_ge_1 = n_ge - np.argmax(guessing_entropy[::-1] > 1)
+        result_number_of_traces_ge_1 = n_ge - np.argmax(guessing_entropy[::-1] > 2)
     else:
         result_number_of_traces_ge_1 = n_ge
 
